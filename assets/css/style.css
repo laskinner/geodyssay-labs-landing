@@ -21,7 +21,6 @@ body {
 
 h1, h2, h3 {
   font-family: 'Oswald', sans-serif;
-  text-transform: uppercase;
   text-spacing: 2px;
   color: #252525
 }
@@ -48,6 +47,11 @@ header a {
   color: inherit;
 }
 
+#logo {
+  max-width: 80%;
+  height: auto;
+  padding-top: 2px;
+}
 
 #menu {
   text-size: 110%;
