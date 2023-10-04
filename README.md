@@ -1,3 +1,9 @@
+# Phases of development
+1) Decide on Geodyssey Labs
+2) Establish basic structure and text
+3) Style for mobile in grayscale
+4) Add color
+
 # Structure
 ## Home
 ### Section - Header
