@@ -1,0 +1,96 @@
+
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/* Asterisk wildcard selector to override default styles added by the border */
+* {
+  padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+/* General styles */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* Generic project styles */
+  color: #3a3a3a;
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  text-spacing: 2px;
+  color: #252525
+}
+
+.hidden-heading {
+  display: none;
+}
+
+/* header */
+header {
+  background-color: #ffffff;
+  padding: 0 1rem;
+  z-index: 99;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 2px 2px #3a3a3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+header a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+#menu {
+  text-size: 110%;
+  letter-spacing: 4px;
+  list-style-type: none;
+}
+
+#menu > li {
+  margin-bottom: 1em;
+}
+
+.active {
+  border-bottom: 1px solid #3a3a3a
+}
+
+/* Navbar styles with dropdown toggle */
+nav {
+  position: absolute;
+  background-color: #ffffff;
+  box-shadow: 0 2px 2px #3a3a3a;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  display: none;
+  top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+  display: block;
+}
+
+#nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  font-size: 2rem;
+}
+/* main */
+
+main {
+  /* Make main element take up surplus space to push footer down */
+  flex: 1 0 auto;
+  margin-top: 47px;
+}
