@@ -99,6 +99,13 @@ main {
   margin-top: 47px;
 }
 
+/* General section styles, uses center as default */
+section {
+padding: 10px;
+  text-align: center;
+}
+
+
 /* Styles for video containers */
 .video-container {
   width: 90%;
@@ -115,6 +122,13 @@ main {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+/* button */
+#buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Use cases */
