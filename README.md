@@ -19,6 +19,17 @@
 ### Section - Geomonitoring
 - Geomonitoring protects life and property through risk assessment of environmental and structural hazards.
 
+### Verticals
+
+- New Construction
+-   Bridges, dams, tunnels, buildings.
+- Structural Health
+-   On-going monitoring of historical buildings, bridges, dams, tunnels, and natural phenomena such as volacnoes.
+- Campaign-based monitoring
+-   Damanged structures and seasonal phenomena, such as mudslides.
+- Mining
+-  Open pit mines and other hazardous mining projects in Australia, Africa, and South America.
+ 
 ### Section - Problem
 - Solutions market is highly fragmented: In-house builds by service providers
 - Prone to Risk: Exposure to risk through endless manual integrations
@@ -56,3 +67,5 @@ The keywords chosen for the landing are based on generally accepted suggestions 
 
 ## Sources
 [Brumadinho Dam Disaster](https://youtu.be/sKZUZQytads?si=DuwlpgqgZXvnl3R8)
+### Structural Monitoring
+Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1834754">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1834754">Pixabay</a>
