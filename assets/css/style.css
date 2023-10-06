@@ -117,6 +117,12 @@ main {
   height: 100%;
 }
 
+/* Use cases */
+#use-cases img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* footer */
 
 #social-networks {
