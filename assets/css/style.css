@@ -102,9 +102,21 @@ main {
 /* General section styles, uses center as default */
 section {
 padding: 10px;
+  margin: 10px;
   text-align: center;
+  border-bottom: 1px solid #252525;
 }
 
+/* Class to override section alignement */
+.left-align {
+  text-align: left;
+  margin-left: 10px;
+  list-style-type: none;
+}
+
+li {
+ margin-top: 10px;
+}
 
 /* Styles for video containers */
 .video-container {
