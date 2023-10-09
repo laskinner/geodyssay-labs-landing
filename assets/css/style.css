@@ -65,7 +65,7 @@ header a {
 }
 
 .active {
-  border-bottom: 1px solid #3a3a3a
+  border-bottom: 2px solid #EEEEEE
 }
 
 /* Navbar styles with dropdown toggle */
@@ -80,7 +80,7 @@ nav {
   top: 100%;
 }
 
-/* Nav toggle */
+/* Nav drapdown */
 #nav-toggle:checked~nav {
   display: block;
 }
@@ -92,8 +92,8 @@ nav {
 .nav-toggle-label {
   font-size: 2rem;
 }
-/* main */
 
+/* main */
 main {
   /* Make main element take up surplus space to push footer down */
   flex: 1 0 auto;
@@ -105,7 +105,8 @@ section {
 padding: 10px;
   margin: 10px;
   text-align: center;
-  border-bottom: 2px solid #8FCDF4;
+  border: 2px solid #8FCDF4;
+  border-radius: 10px;
 }
 
 /* Class to override section alignement */
@@ -165,8 +166,70 @@ li {
 #social-networks i {
   padding: 5%;
   font-size: 160%;
-  color: #3a3a3a
+  color: #EEEEEE
 }
+
+
+/* Signup form */
+#signup-form {
+  border: 2px solid #8FCDF4;
+  border-radius: 10px;
+  padding: 20px;
+  position: relative;
+  background-color: #051726;
+  color: #8FCDF4;
+}
+
+#signup-form h2 {
+  position: absolute;
+  top: -1rem;
+  left: 20px;
+  background: #051726;
+  color: #EEEEEE;
+  padding: 0 10px;
+  margin: 0;
+  font-size: 1.2em;
+}
+
+/* Text inputs for the form */
+.text-input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #8FCDF4;
+  background-color: #051726;
+  color: #8FCDF4;
+  border-radius: 5px;
+}
+
+.text-input:hover,
+.text-input:focus {
+  border-color: #EEEEEE;
+}
+
+/* Join button */
+.join-button {
+  background-color: #8FCDF4;
+  color: #051726;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.join-button:hover {
+  background-color: #6EB3D4;
+}
+
+/* Additional Links */
+h2 a {
+  color: #8FCDF4;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
 
 /* Tables and larger */
 /* Media query: tablets and larger (576px and larger) */
@@ -195,7 +258,6 @@ li {
     padding-left: 1rem;
   }
 
-
   .nav-toggle-label {
     display: none;
   }
@@ -203,6 +265,7 @@ li {
   header a {
     max-width: 50%;
   }
+
   #logo {
     font-size: 280%;
     line-height: 75px;
@@ -222,33 +285,33 @@ li {
   }
 
     /* Signup form */
-#main-signup {
-      background-position: center;
-      position: relative;
-    }
+  #main-signup {
+    background-position: center;
+    position: relative;
+  }
 
-#signup-form {
-    max-width: 400px;
-    position: absolute;
-    left: 10%;
-    top: 150px;
-}
+  #signup-form {
+      max-width: 400px;
+      position: absolute;
+      left: 10%;
+      top: 150px;
+  }
 
-.join-button:hover {
-  background-color: #fafafa;
-  color: #454b1b;
-}
+  .join-button:hover {
+    background-color: #fafafa;
+    color: #454b1b;
+  }
 
-#text-input:hover {
-border-color: #f16c6b;
-}
+  #text-input:hover {
+  border-color: #f16c6b;
+  }
 
 }
 
 @media screen and (min-width: 992px) {
 
   #menu a:hover {
-    border-bottom: 1px solid #3a3a3a
+    border-bottom: 1px solid #EEEEEE
   }
 
   /* Use-cases */
@@ -258,9 +321,6 @@ border-color: #f16c6b;
 }
 
 @media screen and (min-width: 1200px) {
-  #menu {
-    text-size: 180%;
-  }
 #benefits {
     display: flex;
     flex-direction: row;
