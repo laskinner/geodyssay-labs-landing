@@ -33,14 +33,14 @@ h1, h2, h3 {
 /* header */
 header {
   background-color: #051726;
-  padding: 0 1rem;
+  padding: 0.5rem 0.5rem;
   z-index: 99;
   position: fixed;
   width: 100%;
   box-shadow: 0 2px 2px #3a3a3a;
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
 }
 
 header a {
@@ -166,4 +166,120 @@ li {
   padding: 5%;
   font-size: 160%;
   color: #3a3a3a
+}
+
+/* Tables and larger */
+/* Media query: tablets and larger (576px and larger) */
+@media screen and (min-width: 576px) {
+#use-cases {
+    column-count: 2;
+  }
+}
+
+/* Media query: tablets and larger (768px and larger) */
+@media screen and (min-width: 768px) {
+  /* Header */
+  nav {
+      display: block;
+      position: relative;
+      box-shadow: none;
+      width: fit-content;
+      padding-right: 1rem;
+    }
+
+  #menu {
+    display: flex;
+  }
+
+  #menu > li {
+    padding-left: 1rem;
+  }
+
+
+  .nav-toggle-label {
+    display: none;
+  }
+
+  header a {
+    max-width: 50%;
+  }
+  #logo {
+    font-size: 280%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+    max-height: 5rem;
+  }
+
+  /* Main content */
+  main {
+    /* Push content down to accomodate larger header */
+    margin-top: 79px;
+  }
+
+  /* Use-cases */
+  #use-cases {
+    column-count: 3;
+  }
+
+    /* Signup form */
+#main-signup {
+      background-position: center;
+      position: relative;
+    }
+
+#signup-form {
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    top: 150px;
+}
+
+.join-button:hover {
+  background-color: #fafafa;
+  color: #454b1b;
+}
+
+#text-input:hover {
+border-color: #f16c6b;
+}
+
+}
+
+@media screen and (min-width: 992px) {
+
+  #menu a:hover {
+    border-bottom: 1px solid #3a3a3a
+  }
+
+  /* Use-cases */
+  #use-cases {
+    column-count: 4;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #menu {
+    text-size: 180%;
+  }
+#benefits {
+    display: flex;
+    flex-direction: row;
+  }
+#benefits > div {
+    flex: 1;
+
+  }
+  #benefits-image {
+    order: 0;
+  }
+  #benefits-mental {
+    order: 1;
+  }
+
+  #benefits-mental > div {
+align-self: flex-start;
+  }
+  #benefits-physical > div {
+    align-self: flex-end;
+  }
 }
