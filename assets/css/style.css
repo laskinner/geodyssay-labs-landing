@@ -97,7 +97,7 @@ nav {
 main {
   /* Make main element take up surplus space to push footer down */
   flex: 1 0 auto;
-  margin-top: 47px;
+  margin-top: 4rem;
 }
 
 /* General section styles, uses center as default */
@@ -303,6 +303,11 @@ h2 a:hover {
     margin-top: 79px;
   }
 
+  section {
+    max-width: 80%;
+    position: relative;
+    left: 9%;
+  }
   /* Use-cases */
   #use-cases {
     column-count: 3;
@@ -315,10 +320,10 @@ h2 a:hover {
   }
 
   #signup-form {
-      max-width: 400px;
-      position: absolute;
-      left: 10%;
-      top: 150px;
+    max-width: 33%;
+    position: relative;
+    left: 31%;
+    top: 10%;
   }
 
   .join-button:hover {
@@ -333,6 +338,9 @@ h2 a:hover {
 }
 
 @media screen and (min-width: 992px) {
+  main {
+    margin-top: 8rem;
+  }
 
   #menu a:hover {
     border-bottom: 1px solid #EEEEEE
