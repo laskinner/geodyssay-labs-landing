@@ -15,7 +15,7 @@ body {
   display: flex;
   flex-direction: column;
   /* Generic project styles */
-  color: #8FCDF4;
+  color: #EEEEEE;
   font-family: 'Lato', sans-serif;
   background-color: #051726;
 }
@@ -23,7 +23,7 @@ body {
 h1, h2, h3 {
   font-family: 'Oswald', sans-serif;
   text-spacing: 2px;
-  color: #EEEEEE;
+  color: #8FCDF4;
 }
 
 .hidden-heading {
@@ -178,6 +178,7 @@ li {
   position: relative;
   background-color: #051726;
   color: #8FCDF4;
+  margin: 1.5rem;
 }
 
 #signup-form h2 {
@@ -210,15 +211,30 @@ li {
 /* Join button */
 .join-button {
   background-color: #8FCDF4;
-  color: #051726;
+  color: #EEEEEE;
   border: none;
   padding: 15px 30px;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
 }
 
 .join-button:hover {
   background-color: #6EB3D4;
+}
+
+/* Primary button */
+.primary-button {
+  background-color: #8FCDF4 !important;
+  color: #EEEEEE !important;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.primary-button:hover {
+  background-color: #6EB3D4 !important;
 }
 
 /* Additional Links */
@@ -230,6 +246,14 @@ h2 a:hover {
   text-decoration: underline;
 }
 
+#center-item {
+  text-align: center;
+}
+
+/* Tolor p text blue */
+.color-text {
+  color: #8FCDF4;
+}
 
 /* Tables and larger */
 /* Media query: tablets and larger (576px and larger) */
