@@ -169,7 +169,7 @@ li {
 #social-networks i {
   padding: 5%;
   font-size: 160%;
-  color: #EEEEEE
+  color: #051726;
 }
 
 
@@ -344,7 +344,7 @@ h2 a:hover {
   }
 
   .images {
-    max-width: 80rem;
+    max-width: 30rem;
   }
   
   #headshot {
@@ -371,10 +371,15 @@ h2 a:hover {
     position: relative;
     left: 20%;
   }
+
 }
 
 @media screen and (min-width: 1200px) {
   body {
     font-size: x-large;
+  }
+
+  .images {
+    max-width: 40rem;
   }
 }
