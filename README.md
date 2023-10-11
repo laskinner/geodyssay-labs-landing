@@ -88,7 +88,8 @@ Another challenge was the wabpack styling taking over the styling of buttons whi
 Throughout the code, there are a few line breaks to provide additional spacing between elemenst. In the future, it would be worth the effort to see if in the interest of correctness, these line breaks could be replaced with proper padding and margin.
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/c2ceaf06-13cb-4763-9a91-3fbdd95f0bde)
 
-![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/dcf46e10-895c-42f9-a99b-4084d69d81eb)
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/a01c36d8-f029-446e-9f5c-ad97a43e4d75)
+
 
 
 ## Sources
