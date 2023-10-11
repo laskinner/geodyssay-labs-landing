@@ -46,6 +46,7 @@ header {
 header a {
   text-decoration: none;
   color: inherit;
+  font-weight: bolder;
 }
 
 #logo {
@@ -65,7 +66,9 @@ header a {
 }
 
 .active {
-  border-bottom: 2px solid #EEEEEE
+  border: 2px solid #8FCDF4;
+  border-radius: 5px;
+  padding: 5px;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -146,8 +149,8 @@ li {
   justify-content: center;
 }
 
-/* Use cases */
-#use-cases img {
+/* Genral styling for images */
+.images {
   max-width: 100%;
   height: auto;
   border-radius: 10px;
@@ -246,13 +249,18 @@ h2 a:hover {
   text-decoration: underline;
 }
 
-#center-item {
+.center-item {
   text-align: center;
 }
 
 /* Tolor p text blue */
 .color-text {
   color: #8FCDF4;
+}
+
+/* Styling for caliper logo no product page */
+#caliper-logo {
+  margin-top: 10px;
 }
 
 /* Tables and larger */
