@@ -342,6 +342,10 @@ h2 a:hover {
   }
 
   .images {
+    max-width: 80rem;
+  }
+  
+  #headshot {
     max-width: 20rem;
   }
 }
