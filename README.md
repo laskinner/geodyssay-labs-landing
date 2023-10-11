@@ -1,65 +1,41 @@
+# Welcome to the Readme for the Geodyssey Labs landin page!
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/d3d74ee0-74a7-4ae7-868e-a4f5ffd211f7)
+
+Site author: Luke Skinner
+
+Link to livesite:
+https://laskinner.github.io/geodyssay-labs-landing/
+
+
 # Phases of development
 1) Decide on Geodyssey Labs
 2) Establish basic structure and text
-3) Style for mobile in grayscale
+3) Styled and designed first for mobile and in grayscale
 4) Add color
+5) Add responsivity
+6) Adjustments, fixes, and changes
+
+# Purpose
+The purpose of this site is to serve as the first iteration of a landing page for a ConstructionTech startup callde Geodyssey Labs.
+
+# Features and Structure
 
 # Structure
-## Home
-### Section - Header
-- Geodyssey Labs
-  - Surveying Software to protect lives and property
-### Section - Brumadinho dam disaster
-- Date: January 25th, 2019
-- Location: Córrego do Feijão iron ore mine, Brumadinho, Minas Gerais, Brazil
-- Lives lost: 270
-- Damage: $7,000,000,000
-- Better geomonitoring would have provided earlier warnings and saved lives and property.
-
-### Section - Geomonitoring
-- Geomonitoring protects life and property through risk assessment of environmental and structural hazards.
-
-### Verticals
-
-- New Construction
--   Bridges, dams, tunnels, buildings.
-- Structural Health
--   On-going monitoring of historical buildings, bridges, dams, tunnels, and natural phenomena such as volacnoes.
-- Campaign-based monitoring
--   Damanged structures and seasonal phenomena, such as mudslides.
-- Mining
--  Open pit mines and other hazardous mining projects in Australia, Africa, and South America.
- 
-### Section - Problem
-- Solutions market is highly fragmented: In-house builds by service providers
-- Prone to Risk: Exposure to risk through endless manual integrations
-- Not scalable: Device and sensor limited by integration builds
-- Low quality: Third party quality control add-ons double costs to fulfull tenders
-- Old: Dated industry softwares build populate the space
-
+## Landing page
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/c05d5853-b1d8-4d09-af1b-a62c282ee2f3)
 
 ## Team
-- Geodyssey Labs was formed by two principal co-foundes, Luke Skinner and Sashca Scheid. Together they comprise more than 50 years in experience in both geodetic surveying and software production.
-- Pictures of Sasch and Luke
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/9ef24202-bd42-40c8-a41b-93ccc3bbc40c)
 
 ## Product
-### Section - Caliper
-- Geodyssey Labs is producing Caliper, the first SaaS market solution which integrates the processing of all mathematical calculations with one set of algorithms, on one platform, for any OEM hardware.
-- Caliper’s algorithms comply with the highest scientific standard of quality control and are:
-- Platform Native—No more third party software.
-- Scalable—No theoretical limit to instrument quantity or type.
-- …making Caliper:
-- Cheaper—No more third party purchases.
-- Faster to deploy—No more third party integrations.
-- Safer—No more third party risk vectors.
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/01d4969d-7571-4dc5-9497-96ec633d233f)
 
 ## Sign Up
-- Join waitlist for beta launch
--   First name (required)
--   Last name (required)
--   Email (required)
--   Company (optional)
--   Country (optional)
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/3885cd5a-1e59-4971-a179-9e5487f9f1cc)
+
+
+# Content
+Much of the content for the landing page was supplied by a pre-existing business plan and pitch deck, created by site author, Luke. This includes everything from company description, tag line copy, use-cases, product descriptions, and team bios.
 
 ## Other
 ### Keywords
@@ -90,9 +66,22 @@ Throughout the code, there are a few line breaks to provide additional spacing b
 
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/a01c36d8-f029-446e-9f5c-ad97a43e4d75)
 
+## Won't Do
+There were three tasks which were deemed not necessary due to their being largely aesthetic, less important than other fixes, and therefore deprioritized than other adjustments which needed to be made in order to make the deadline.
 
+### Social Media links
+In some views, particularly those on larger viewports, the social media links began to be space across the inter footer, which doesn't look nice.
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/20dae4d5-5917-44ea-934f-e38fa3e325ba)
 
-## Sources
-[Brumadinho Dam Disaster](https://youtu.be/sKZUZQytads?si=DuwlpgqgZXvnl3R8)
-### Structural Monitoring
-Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1834754">Pexels</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1834754">Pixabay</a>
+### Terms of Service, Privacy Protection, Copyright
+As with the social media links, this was also deprioritize. However, adding these links and functionality could be coupled with a redesign of the social media links, as both share the footer.
+
+### List styles
+Some of the lists may perhaps have appeared more readable if their were either in a centered container with left-align, or in the case of the Bermadinho Disaster, place into a table with the left coloumn being aligned right and the right column being aligned left:
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/513db0ea-0d25-420e-8767-4b19a73f9e63)
+
+Color could have also been added to the left column to provie better readability, as well.
+
+## Validation
+Jigsaw Validator results
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/7daf2291-49d6-459c-ba38-eb9b6f1c301e)
