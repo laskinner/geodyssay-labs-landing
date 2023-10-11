@@ -17,7 +17,7 @@ body {
   /* Generic project styles */
   color: #EEEEEE;
   font-family: 'Lato', sans-serif;
-  background-color: #051726;
+  background-color: #EEEEEE;
 }
 
 h1, h2, h3 {
@@ -108,8 +108,10 @@ section {
 padding: 10px;
   margin: 10px;
   text-align: center;
-  border: 2px solid #8FCDF4;
   border-radius: 10px;
+  background-color: #051726;
+  box-shadow: 0px 2px 4px #3a3a3a;
+
 }
 
 /* Class to override section alignement */
