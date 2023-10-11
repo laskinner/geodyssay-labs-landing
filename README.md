@@ -20,7 +20,6 @@ The purpose of this site is to serve as the first iteration of a landing page fo
 
 # Features and Structure
 
-# Structure
 ## Landing page
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/c05d5853-b1d8-4d09-af1b-a62c282ee2f3)
 
