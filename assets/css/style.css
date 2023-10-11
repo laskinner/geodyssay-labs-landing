@@ -341,6 +341,9 @@ h2 a:hover {
   border-color: #f16c6b;
   }
 
+  .images {
+    max-width: 20rem;
+  }
 }
 
 @media screen and (min-width: 992px) {
@@ -367,26 +370,5 @@ h2 a:hover {
 @media screen and (min-width: 1200px) {
   body {
     font-size: x-large;
-  }
-#benefits {
-    display: flex;
-    flex-direction: row;
-  }
-#benefits > div {
-    flex: 1;
-
-  }
-  #benefits-image {
-    order: 0;
-  }
-  #benefits-mental {
-    order: 1;
-  }
-
-  #benefits-mental > div {
-align-self: flex-start;
-  }
-  #benefits-physical > div {
-    align-self: flex-end;
   }
 }
