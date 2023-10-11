@@ -57,6 +57,7 @@ header a {
   max-width: 80%;
   height: auto;
   padding-top: 2px;
+  max-height: 3rem;
 }
 
 #menu {
