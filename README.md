@@ -67,8 +67,14 @@ The keywords chosen for the landing are based on generally accepted suggestions 
 
 ## Changes and Challenges
 One major was the overall look and feel of the site. While attempting to introduce cards and containers in order to provide more modern styling, and make the site look and feel less "HTML-y", cards, borders, and shadows were introcude. The first settled upon iteration look as follows:
+
+
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/91b76eb2-b401-4411-8aa4-ede76a758991)
+
+
 While this looked good, it still felt like it needed improvement. Therefore, eliminating borders, introducing subtle shadows, and changing the body background give it more depth:
+
+
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/83ebe078-489c-497c-8d06-6a099349a47e)
 
 
