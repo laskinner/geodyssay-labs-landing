@@ -1,4 +1,4 @@
-# Welcome to the Readme for the Geodyssey Labs landin page!
+# Welcome to the Readme for the Geodyssey Labs landing page!
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/d3d74ee0-74a7-4ae7-868e-a4f5ffd211f7)
 
 Site author: Luke Skinner
