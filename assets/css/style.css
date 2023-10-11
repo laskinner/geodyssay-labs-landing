@@ -113,9 +113,7 @@ padding: 10px;
 }
 
 /* Class to override section alignement */
-.left-align {
-  text-align: left;
-  margin-left: 10px;
+.list-align {
   list-style-type: none;
 }
 
@@ -312,9 +310,9 @@ h2 a:hover {
   }
 
   section {
-    max-width: 80%;
+    max-width: 60%;
     position: relative;
-    left: 9%;
+    left: 20%;
   }
   /* Use-cases */
   #use-cases {
