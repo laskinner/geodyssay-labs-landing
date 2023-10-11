@@ -68,7 +68,7 @@ header a {
 .active {
   border: 2px solid #8FCDF4;
   border-radius: 5px;
-  padding: 5px;
+  padding: 3px;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -277,7 +277,7 @@ h2 a:hover {
       position: relative;
       box-shadow: none;
       width: fit-content;
-      padding-right: 1rem;
+      padding-right: 5px;
     }
 
   #menu {
@@ -310,9 +310,9 @@ h2 a:hover {
   }
 
   section {
-    max-width: 60%;
+    max-width: 80%;
     position: relative;
-    left: 20%;
+    left: 10%;
   }
   /* Use-cases */
   #use-cases {
@@ -356,9 +356,18 @@ h2 a:hover {
   #use-cases {
     column-count: 4;
   }
+
+  section {
+    max-width: 60%;
+    position: relative;
+    left: 20%;
+  }
 }
 
 @media screen and (min-width: 1200px) {
+  body {
+    font-size: x-large;
+  }
 #benefits {
     display: flex;
     flex-direction: row;
