@@ -83,4 +83,10 @@ Color could have also been added to the left column to provie better readability
 
 ## Validation
 Jigsaw Validator results
-![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/7daf2291-49d6-459c-ba38-eb9b6f1c301e)
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/585fe692-5565-47e3-a866-1a7d203c942c)
+
+NU HTML Checker
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/3da530d6-576f-4677-a2a9-e7bc20d90efb)
+
+
+
