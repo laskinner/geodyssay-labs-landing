@@ -3,9 +3,10 @@
 
 Site author: Luke Skinner
 
-Link to livesite:
-https://laskinner.github.io/geodyssay-labs-landing/
+Link to [livesite](https://laskinner.github.io/geodyssay-labs-landing/)
 
+# Site goal
+The goal of this site is to introduce potential customers to Geodyssey Labs, and the product Geodyssey Labs is building, Caliper. As Caliper is not built, in meant only to be a high-level overview with a general highlightjq of benefits to the customer.
 
 # Phases of development
 1) Decide on Geodyssey Labs
@@ -21,20 +22,38 @@ The purpose of this site is to serve as the first iteration of a landing page fo
 # Features and Structure
 
 ## Landing page
+The purpose of the landing page is meant to simply introduce the user to Geodyssey Labs, and more broadly and its geomonitoring importance in keeping the public safe.
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/c05d5853-b1d8-4d09-af1b-a62c282ee2f3)
 
 ## Team
+The purpose of the team page is to introduce to Geodyssey Labs team, and instill in the user confidence that we the team building Caliper is experienced and capable.
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/9ef24202-bd42-40c8-a41b-93ccc3bbc40c)
 
 ## Product
+The purpose of the product page is to introduce the user to Caliper, Geodyssey Labs' first product, and its potential use-cases so that users understand under which environments Caliper is meant to operate.
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/01d4969d-7571-4dc5-9497-96ec633d233f)
 
 ## Sign Up
+THe purpose of the sign up page is to provide users with the ability to sign up for Caliper.
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/3885cd5a-1e59-4971-a179-9e5487f9f1cc)
 
+# Deployment
+The site is deployed using Github pages. To deploy, simple push code into main, and the site will automatically redeploy upon merge.
 
 # Content
-Much of the content for the landing page was supplied by a pre-existing business plan and pitch deck, created by site author, Luke. This includes everything from company description, tag line copy, use-cases, product descriptions, and team bios.
+Much of the content for the landing page was supplied by a pre-existing business plan and pitch deck, created by site author, Luke. This includes everything from company description, tag line copy, use-cases, product descriptions, and team bios. Screenshots for the used sileds are as follows:
+### Brumadinho Dam Disaster
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/33d37c74-aa94-4515-9d40-e4dc332320de)
+
+### What is Geomonitoring?
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/825e046c-c2b6-4957-942a-de43c8c38071)
+
+### Product
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/a6e07e6c-7712-4f0e-b61b-10c5a614879f)
+
+### Team
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/fe3455f0-4e91-4c61-86ff-5a1da72ed43c)
+
 
 ## Other
 ### Keywords
@@ -81,12 +100,25 @@ Some of the lists may perhaps have appeared more readable if their were either i
 
 Color could have also been added to the left column to provie better readability, as well.
 
+## Tools and Technologies
+The only tool and technologies used were HTML and CSS.
+
 ## Validation
 Jigsaw Validator results
-![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/585fe692-5565-47e3-a866-1a7d203c942c)
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/585fe692-5565-47e3-a866-1a7d203c942c)o
+
+## Future Development
+Future development will include:
+- E-mail confirmation sign-up
+- Product screenshots
+- Copyright, Terms of Service, and Privacy Policy in footer
+- Dark and Light mode
+- Contact page
+- About page to replace team page 
 
 NU HTML Checker
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/3da530d6-576f-4677-a2a9-e7bc20d90efb)
 
-
+Thorough testing to conducted on Safari, Chrome, and Firefox. The tests were entirely manual, and much of the testing was focused on responsivity. In the later stages of the project, one can see the testing for responsivity begin with the commit names focusing heavily on fixing bugs around responivity.
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/b9514cf6-9f53-4550-b894-8693efc628df)
 
