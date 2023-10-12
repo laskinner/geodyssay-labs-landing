@@ -26,7 +26,6 @@ a {
 
 h1, h2, h3 {
   font-family: 'Oswald', sans-serif;
-  text-spacing: 2px;
   color: #8FCDF4;
 }
 
@@ -61,7 +60,6 @@ header a {
 }
 
 #menu {
-  text-size: 110%;
   letter-spacing: 4px;
   list-style-type: none;
 }
