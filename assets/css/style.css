@@ -52,21 +52,20 @@ header a {
   font-weight: bolder;
 }
 
-l
-#menu {
-  letter-spacing: 4px;
-  list-style-type: none;
-}
-
-#menu > li {
-  margin-bottom: 1em;
-}
-
 .logo {
   max-width: 80%;
   height: auto;
   padding-top: 2px;
   max-height: 3rem;
+}
+
+#menu {
+  letter-spacing: 4px;
+  list-style: none;
+}
+
+#menu > li {
+  margin-bottom: 1em;
 }
 
 .active {
