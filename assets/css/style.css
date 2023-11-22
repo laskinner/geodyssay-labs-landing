@@ -354,7 +354,7 @@ h2 a:hover {
     max-width: 30rem;
   }
   
-  #headshot {
+  .headshot {
     max-width: 20rem;
   }
 }
