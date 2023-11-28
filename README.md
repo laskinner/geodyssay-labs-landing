@@ -152,7 +152,7 @@ The image used on the landing page, in the "What is geomonitoring" section is fr
 
 The photos used in the Use-case section of the Product page are from: [Pixabay](https://www.pixabay.com)
 
-### Use cases
+### Use cases credits
 - New Construction: Image by [joffi](https://pixabay.com/users/joffi-1229850/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1359136)
 - Structural Health: Image by [Pexels](https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1834754)
 - Campaign-Monitoring: Image by [12019](https://pixabay.com/users/12019-12019/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=79691)
