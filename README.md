@@ -110,9 +110,15 @@ Jigsaw Validator results
 NU HTML Checker
 
 Index.html:
+
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/9c2e7ee9-0844-4828-b6ee-dd96f81f5f2f)
 
-Signup.html
+Product.html:
+
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/74294d27-14e3-473d-a0dd-6dc3b64996c8)
+
+Signup.html:
+
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/4c3c9aad-aaa6-48d3-80f1-7b42313dd109)
 
 
