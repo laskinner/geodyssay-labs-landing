@@ -125,7 +125,7 @@ Team.html:
 
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/ab1804e4-2826-4e24-8c5f-1cd6aaf21891)
 
-
+# Testing
 
 Thorough testing was conducted on Safari, Chrome, and Firefox. The tests were entirely manual, and much of the testing was focused on responsivity. In the later stages of the project, one can see the testing for responsivity begin with the commit names focusing heavily on fixing bugs around responsivity.
 
@@ -141,7 +141,7 @@ Future development will include:
 - Contact page
 - About page to replace team page
 
-# Credits
+# Credits and Attribution
 
 ## Content
 Much of the content for the landing page was supplied by a pre-existing business plan and pitch deck, created by site author, Luke. This includes everything from company description, tagline copy, use cases, product descriptions, and team bios. Screenshots from the used slides are as follows:
