@@ -109,7 +109,10 @@ Jigsaw Validator results
 
 NU HTML Checker
 
-![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/3da530d6-576f-4677-a2a9-e7bc20d90efb)
+Index:
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/9c2e7ee9-0844-4828-b6ee-dd96f81f5f2f)
+
+
 
 Thorough testing was conducted on Safari, Chrome, and Firefox. The tests were entirely manual, and much of the testing was focused on responsivity. In the later stages of the project, one can see the testing for responsivity begin with the commit names focusing heavily on fixing bugs around responsivity.
 
