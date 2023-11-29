@@ -131,6 +131,54 @@ Thorough testing was conducted on Safari, Chrome, and Firefox. The tests were en
 
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/b9514cf6-9f53-4550-b894-8693efc628df)
 
+**Test Case 1: Verify that the landing page (Home) loads correctly**
+
+- **Steps:**
+    1. Navigate to the landing page (Home) of the website.
+    2. Verify that the page contains the following elements:
+        - A navigation bar with:
+	        - Saving Lives and Property
+	        - What is Geomonitoring
+	        - Why Geodyssey Labs
+        - A footer with links to social media
+
+**Test Case 2: Verify that the Team page loads correctly**
+
+- **Steps:**
+    1. Navigate to the Team page
+    2. Verify that the page contains the following elements:
+        - A navigation bar with links to Home, Product, and Sign Up
+        - Biographies for Luke and Sascha
+        - A footer with links to social media
+
+**Test Case 3: Verify that the Product page loads correctly**
+
+- **Steps:**
+    1. Navigate to the Product page
+    2. Verify that the page contains the following elements:
+        - A navigation bar with links to Home, Product, and Sign Up
+        - The Caliper logo
+        - Beneath the Caliper logo, a section about Caliper
+        - Product use-cases
+        - A footer containing links to social media
+
+**Test Case 3: Verify that the Sign Up page loads correctly**
+
+- **Steps:**
+    1. Open the Sign Up page of the website.
+    2. Verify that the page contains the following elements:
+        - A navigation bar with links to Home, Product, and Sign Up
+        - A Sign Up form with required fields for first name, last name, and e-mail, and an optional field for Company.
+        - A link to "Already have an account?", that links back to the Home page
+        - A submit button
+        - A confirmation message that appears after the form is submitted
+
+**Additional Test Cases**
+
+- **Verify that all links on the website work correctly.**
+- **Verify that the website is responsive and looks good on different devices.**
+- **Verify that the website is accessible to users with disabilities.**
+- **Verify that the social media links open in a new window and link the user out to the appropriate site.**
 
 # Future Development
 Future development will include:
