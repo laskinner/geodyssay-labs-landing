@@ -173,3 +173,6 @@ The photos used in the Use-case section of the Product page are from: [Pixabay](
 - Structural Health: Image by [Pexels](https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1834754)
 - Campaign-Monitoring: Image by [12019](https://pixabay.com/users/12019-12019/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=79691)
 - Mining: Image by [horjaraul](https://pixabay.com/users/horjaraul-495898/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=481754)
+
+## Other attributions
+Inspiration for the social media links in the footer was taken from the Code Institute, [Love Running](https://github.com/laskinner/love-running/) walk-through project.
