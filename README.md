@@ -121,6 +121,11 @@ Signup.html:
 
 ![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/4c3c9aad-aaa6-48d3-80f1-7b42313dd109)
 
+Team.html:
+
+![image](https://github.com/laskinner/geodyssay-labs-landing/assets/1858258/ab1804e4-2826-4e24-8c5f-1cd6aaf21891)
+
+
 
 Thorough testing was conducted on Safari, Chrome, and Firefox. The tests were entirely manual, and much of the testing was focused on responsivity. In the later stages of the project, one can see the testing for responsivity begin with the commit names focusing heavily on fixing bugs around responsivity.
 
